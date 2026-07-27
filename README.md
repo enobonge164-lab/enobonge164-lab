@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Sirwhite The Polymath
 
-<!--
-**enobonge164-lab/enobonge164-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Creator | AI Educator | Future AI Builder
 
-Here are some ideas to get you started:
+I help creators, entrepreneurs, and businesses learn AI, automate work, create better content, and build digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Mission
+Empowering over 1 million creators with Artificial Intelligence by 2030.
+
+## 🛠 Skills
+- ChatGPT
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Canva
+- AI Content Creation
+
+## 🌐 Portfolio
+🔗 https://enobonge164-lab.github.io
+
+## 📫 Connect With Me
+- YouTube
+- LinkedIn
+- TikTok
+- X (Twitter)
+- Facebook
+
+> **Knowledge Without Boundaries.**
