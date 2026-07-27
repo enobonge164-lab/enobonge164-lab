@@ -17,13 +17,18 @@ Empowering over 1 million creators with Artificial Intelligence by 2030.
 - AI Content Creation
 
 ## 🌐 Portfolio
+
 🔗 https://enobonge164-lab.github.io
 
 ## 📫 Connect With Me
-- YouTube
-- LinkedIn
-- TikTok
-- X (Twitter)
-- Facebook
+- 📺 [YouTube](https://www.youtube.com/yourchannel)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+- 🎵 [TikTok](https://www.tiktok.com/@sirwhitepolymath)
+
+- 🐦 [X (Twitter)](https://x.com/sirwhitepolymath)
+
+- 📘 [Facebook](https://facebook.com/sirwhitepolymath)
 
 > **Knowledge Without Boundaries.**
