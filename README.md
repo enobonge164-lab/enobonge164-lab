@@ -1,3 +1,10 @@
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enobonge164-lab&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=enobonge164-lab&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enobonge164-lab&layout=compact&theme=tokyonight)
 # 👋 Hi, I'm Sirwhite The Polymath
 
 ## 🚀 AI Creator | AI Educator | Future AI Builder
