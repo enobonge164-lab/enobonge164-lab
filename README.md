@@ -1,42 +1,58 @@
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enobonge164-lab&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=enobonge164-lab&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enobonge164-lab&layout=compact&theme=tokyonight)
-
 # 👋 Hi, I'm Sirwhite The Polymath
+## 🏆 GitHub Trophies
 
-## 🚀 AI Creator | AI Educator | Future AI Builder
+![Trophies](https://github-profile-trophy.vercel.app/?username=enobonge164-lab&theme=algolia&no-frame=true&margin-w=15)
+## 🤖 AI Creator | AI Educator | Future AI Builder
 
-I help creators, entrepreneurs, and businesses learn AI, automate work, create better content, and build digital products.
+Helping creators and businesses use Artificial Intelligence to build, create, and grow.
 
-### 🌍 Mission
-Empowering over 1 million creators with Artificial Intelligence by 2030.
+🌍 Mission:
+Empower over **1 Million Creators with AI by 2030**
 
-## 🛠 Skills
-- ChatGPT
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Canva
-- AI Content Creation
+---
+
+## 🚀 What I'm Working On
+
+- 🌐 AI Portfolio Website
+- 🤖 AI Content Creation
+- 💻 Web Development
+- 📱 Digital Products
+- 🚀 AI Automation
+
+---
+
+## 🛠️ Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+
+---
 
 ## 🌐 Portfolio
 
-🔗 https://enobonge164-lab.github.io
+https://enobonge164-lab.github.io
+
+---
 
 ## 📫 Connect With Me
-- 📺 https://www.instagram.com/sirwhitepolymath
 
-- 💼 https://www.youtube.com/channel/UCMxfDCswxm9GNJxhvC-RtUw
+- LinkedIn
+- X (Twitter)
+- Facebook
+- YouTube
 
-- 🎵 https://www.tiktok.com/@sirwhitepolymath
+---
 
-- 🐦 https://x.com/sirwhitpolymath
-
-- 📘 https://www.linkedin.com/in/sirwhitethepolymath
-
-> **Knowledge Without Boundaries.**
+> **Knowledge Without Boundaries**
+![](https://komarev.com/ghpvc/?username=enobonge164-lab&style=for-the-badge&color=blueviolet)
