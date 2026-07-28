@@ -6,7 +6,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=enobonge164-lab&theme=algolia&no-frame=true&margin-w=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=enobonge164-lab&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤖 AI Creator | AI Educator | Future AI Builder
 
 Helping creators and businesses use Artificial Intelligence to build, create, and grow.
