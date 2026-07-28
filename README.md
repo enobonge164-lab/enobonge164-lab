@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sirwhite+The+Polymath;AI+Creator;AI+Educator;Future+AI+Builder;Helping+1+Million+Creators+with+AI)](https://github.com/enobonge164-lab)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Sirwhite+The+Polymath;AI+Creator;AI+Educator;Future+AI+Builder;Helping+1M%2B+Creators+with+AI" />
+</p>
 # 👋 Hi, I'm Sirwhite The Polymath
 ## 🏆 GitHub Trophies
 
@@ -39,7 +42,9 @@ Empower over **1 Million Creators with AI by 2030**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
 
 ---
+## 📈 GitHub Activity Graph
 
+[![Sirwhite's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enobonge164-lab&theme=tokyo-night)](https://github.com/enobonge164-lab)
 ## 🌐 Portfolio
 
 https://enobonge164-lab.github.io
