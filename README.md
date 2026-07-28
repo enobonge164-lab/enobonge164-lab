@@ -28,14 +28,14 @@ Empowering over 1 million creators with Artificial Intelligence by 2030.
 🔗 https://enobonge164-lab.github.io
 
 ## 📫 Connect With Me
-- 📺 [YouTube](https://www.youtube.com/yourchannel)
+- 📺 https://www.instagram.com/sirwhitepolymath
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💼 https://www.youtube.com/channel/UCMxfDCswxm9GNJxhvC-RtUw
 
-- 🎵 [TikTok](https://www.tiktok.com/@sirwhitepolymath)
+- 🎵 https://www.tiktok.com/@sirwhitepolymath
 
-- 🐦 [X (Twitter)](https://x.com/sirwhitepolymath)
+- 🐦 https://x.com/sirwhitpolymath
 
-- 📘 [Facebook](https://facebook.com/sirwhitepolymath)
+- 📘 https://www.linkedin.com/in/sirwhitethepolymath
 
 > **Knowledge Without Boundaries.**
