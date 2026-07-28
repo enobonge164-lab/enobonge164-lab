@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Sirwhite+The+Polymath;AI+Creator;AI+Educator;Future+AI+Builder;Helping+1M%2B+Creators+with+AI" />
 </p>
-# 👋 Hi, I'm Sirwhite The Polymath
+## 👋 Hi, I'm Sirwhite The Polymath
+
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=enobonge164-lab&theme=algolia&no-frame=true&margin-w=15)
