@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sirwhite+The+Polymath;AI+Creator;AI+Educator;Future+AI+Builder;Helping+1+Million+Creators+with+AI)](https://github.com/enobonge164-lab)
 # 👋 Hi, I'm Sirwhite The Polymath
 ## 🏆 GitHub Trophies
 
