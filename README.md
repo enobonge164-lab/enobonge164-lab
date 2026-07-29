@@ -47,7 +47,7 @@ Empower over **1 Million Creators with AI by 2030**
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=enobonge164-lab&show_icons=true&theme=tokyonight)
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=enobonge164-lab&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=enobonge164-lab&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/enobonge164-lab/enobonge164-lab/blob/output/github-contribution-grid-snake.svg)
