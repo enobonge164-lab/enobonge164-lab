@@ -59,10 +59,10 @@ Empower over **1 Million Creators with AI by 2030**
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- X (Twitter)
-- Facebook
-- YouTube
+- https://www.linkedin.com/in/sirwhitethepolymath
+- https://x.com/sirwhitpolymath
+- https://www.facebook.com/sirwhitepolymath
+- https://www.youtube.com/channel/UCMxfDCswxm9GNJxhvC-RtUw
 
 ---
 
