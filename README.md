@@ -43,6 +43,11 @@ Empower over **1 Million Creators with AI by 2030**
 ## 📈 GitHub Activity Graph
 
 [![Sirwhite's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enobonge164-lab&theme=tokyo-night)](https://github.com/enobonge164-lab)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=enobonge164-lab&show_icons=true&theme=tokyonight)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=enobonge164-lab&theme=tokyonight)
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/enobonge164-lab/enobonge164-lab/blob/output/github-contribution-grid-snake.svg)
